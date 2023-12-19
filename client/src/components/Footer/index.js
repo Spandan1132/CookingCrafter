@@ -18,26 +18,6 @@ const Footer = () => {
                 Sagar Mondal
               </Nav.Link>
             </Nav.Item>
-            <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/Rishima15">
-                Rishima Chowdhury
-              </Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/Spandan1132">
-              Spandan Bhowmick
-              </Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/aritra-2003">
-              Aritra Ganai
-              </Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/Sreyashidey">
-              Sreyashi Dey
-              </Nav.Link>
-            </Nav.Item>
           </Nav>
         </Navbar>
       </Col>
